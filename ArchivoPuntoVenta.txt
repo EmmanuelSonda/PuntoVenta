@@ -1,6 +1,7 @@
 Probando Git
 Estos son algunos cambios
-Páginas Web Pendientes
+inistrativa de Ventas\
+Paginas web para crear 2018
 >Gestionador de Presupuesto
 >Página Administrativa de IBEM
 >Página Administrativa de Ventas
