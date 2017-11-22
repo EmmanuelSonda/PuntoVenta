@@ -1,0 +1,10 @@
+Probando Git
+Estos son algunos cambios
+<<<<<<< HEAD
+Páginas Web Pendientes
+>Gestionador de Presupuesto
+>Página Administrativa de IBEM
+>Página Administrativa de Ventas
+=======
+Paginas web para crear 2018
+>>>>>>> master
